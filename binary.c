@@ -8,6 +8,7 @@ int main(void)
   int binary[8];
   k = 0;//初期化
 
+  
 //範囲を指定
   while(k < 256){
     j = k;
